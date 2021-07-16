@@ -2,6 +2,10 @@
 
 Using React Js
 
+#
+
+![App Screenshot](https://github.com/kritika243/ms-teams-ui/blob/main/public/app-screenshot.png)
+
 ### Inspiration
 
 [Microsoft Teams] https://www.microsoft.com/en-in/microsoft-teams/group-chat-software
